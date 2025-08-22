@@ -11,7 +11,7 @@ an open-source platform for self-hosted remote development environments.
 - Created a workspace through the Web UI
 
 ## Screenshot
-![Workspace Dashboard](screenshot.png)
+![Workspace Dashboard](recent:///f9f33015b9b99ee0363a7d5568a85fbc)
 
 ## Steps to Reproduce
 1. Install Coder:
